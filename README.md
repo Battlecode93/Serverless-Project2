@@ -1,7 +1,3 @@
-Here's a README file based on the information you provided. You can further customize it to fit your specific needs.
-
----
-
 # Project: DynamoDB Operations via API Gateway and Lambda
 
 ## Overview
