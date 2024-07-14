@@ -1,4 +1,4 @@
-# Project: DynamoDB Operations via API Gateway and Lambda
+# DynamoDB Operations via API Gateway and Lambda
 
 ## Overview
 
