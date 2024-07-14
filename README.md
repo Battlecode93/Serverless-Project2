@@ -1,5 +1,8 @@
 # DynamoDB Operations via API Gateway and Lambda
 
+![Alt text](Full-Architecture.jpg)
+----
+
 ## Overview
 
 This project demonstrates how to set up a serverless architecture using AWS Lambda, API Gateway, and DynamoDB. The setup allows you to perform CRUD operations on a DynamoDB table through an API endpoint.
